@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\bin\Debug\BramlittJoshua_Integrative.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\bin\Debug\BramlittJoshua_Integrative.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\bin\Debug\BramlittJoshua_Integrative.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\obj\Debug\BramlittJoshua_Integrative.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\obj\Debug\BramlittJoshua_Integrative.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\obj\Debug\BramlittJoshua_Integrative.csproj.CopyComplete
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\obj\Debug\BramlittJoshua_Integrative.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Class code\BramlittJoshua_Integrative\BramlittJoshua_Integrative\obj\Debug\BramlittJoshua_Integrative.pdb
