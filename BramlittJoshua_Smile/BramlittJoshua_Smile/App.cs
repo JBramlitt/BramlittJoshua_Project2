@@ -22,13 +22,13 @@ namespace BramlittJoshua_Smile
 
             // Chose which color and symbol
             Console.WriteLine("Which color do you want?");
-            Console.WriteLine("1. Gray /n2. Yellow /n3. Black /n4.Red");
+            Console.WriteLine("1. Gray \n2. Yellow \n3. Black \n4.Red");
 
             string temp = Console.ReadLine();
             int chosen = Validation.IntVal(temp);
 
             Console.WriteLine("Which Symbol do you want it drawn in?");
-            Console.WriteLine("1. $ /n2. @ /n3. * /n4.&");
+            Console.WriteLine("1. $ \n2. @ \n3. * \n4.&");
 
             string t = Console.ReadLine();
             int c = Validation.IntVal(t);
@@ -220,6 +220,7 @@ namespace BramlittJoshua_Smile
                                     Console.WriteLine("***");
 
 
+                                    Console.ReadKey();
                                     Console.ReadKey();
                                 }
                                 break;
