@@ -8,15 +8,18 @@ namespace BramlittJoshua_Smile
 {
     class App
     {
+        // create a list for the choices
         List<int> choice = new List<int>();
 
         public App()
         {
+            // Add the numbers
             choice.Add(1);
             choice.Add(2);
             choice.Add(3);
             choice.Add(4);
 
+            // Create the main circle
             int radius = 10;
             double ratio = (4.0 / 2.0);
             double circle = ratio * radius;
@@ -37,9 +40,24 @@ namespace BramlittJoshua_Smile
                         Console.Write(" ");
                     }
                 }
-
                 Console.WriteLine();
             }
+
+            // Move the cursor position for the left eye
+            Console.SetCursorPosition(10, 5);
+            Console.WriteLine("*****");
+            Console.SetCursorPosition(10, 6);
+            Console.WriteLine("** **");
+            Console.SetCursorPosition(10, 7);
+            Console.WriteLine("*****");
+
+            // Move the cursor psition for the right eye
+            Console.SetCursorPosition(25, 5);
+            Console.WriteLine("*****");
+            Console.SetCursorPosition(25, 6);
+            Console.WriteLine("** **");
+            Console.SetCursorPosition(25, 7);
+            Console.WriteLine("*****");
 
             Console.ReadKey();
         }
