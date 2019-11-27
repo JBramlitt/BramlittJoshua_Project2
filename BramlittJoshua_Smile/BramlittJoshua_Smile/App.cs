@@ -59,6 +59,20 @@ namespace BramlittJoshua_Smile
             Console.SetCursorPosition(25, 7);
             Console.WriteLine("*****");
 
+
+            // Move the cursor for the mouth
+            Console.SetCursorPosition(11, 12);
+            Console.WriteLine("***");
+            Console.SetCursorPosition(13, 13);
+            Console.WriteLine("***");
+            Console.SetCursorPosition(15, 14);
+            Console.WriteLine("***********");
+            Console.SetCursorPosition(25, 13);
+            Console.WriteLine("***");
+            Console.SetCursorPosition(27, 12);
+            Console.WriteLine("***");
+
+
             Console.ReadKey();
         }
     }
