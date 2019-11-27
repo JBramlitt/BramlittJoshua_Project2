@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BramlittJoshua_Integrative
+namespace BramlittJoshua_Smile
 {
     class Validation
     {
